@@ -53,6 +53,5 @@ public class GraphNode {
 	public int getEarliestCompletionTime(){
 		return ec;
 	}
-	
-	
+
 }
